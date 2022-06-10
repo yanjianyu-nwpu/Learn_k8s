@@ -25,5 +25,7 @@
 - Controller 
   
   - k8s 通常不会直接创建pod 是通过controllker 来管理pod
-
-
+  
+  - 一般有Deployment ReplicaSet DaemonSet StatefuleSet Job 等
+    
+    -    
